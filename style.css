@@ -1,0 +1,41 @@
+body{padding:100px;}
+.banktitle{
+    text-align: center;
+}
+.container {
+    margin-top: 40px;
+}
+.lebel{
+    font-size: large;
+    font-weight: 400;
+}
+.hello1{
+    margin-left:16%;
+    margin-top:30px;
+    padding: 25px;
+    box-shadow:2px 2px 40px #ddd;}
+.btn{margin-top: 10px;}
+
+
+
+#transaction{display: none;}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.hello2{
+  
+    margin-top:30px;
+    padding: 25px;
+    box-shadow:2px 2px 40px #ddd;}
+.count{
+    margin:0px 20px;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
